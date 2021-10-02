@@ -9,7 +9,7 @@ The examples will be broken up in to two different sections, block elements and 
 
 ### Block Elements
 #### Paragraphs and New Lines
-Creating paragraphs and new lines (or line breaks) are similar, but have subtle differences. A new paragraph element, <p>...</p>, is created any time there is a blank line between two lines of text. 
+Creating paragraphs and new lines (or line breaks) are similar, but have subtle differences. A new paragraph element, `<p> </p>)`,  is created any time there is a blank line between two lines of text. 
 
 #### Headers
 There are two ways to create headers, Setext and atx. The method you choose will be based on personal preference and the size of header you need.
