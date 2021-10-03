@@ -1,5 +1,9 @@
 ---
 title: My Markdown Document
+---
+## Title- {{page.title}}
+
+---
 author: John Doe
 ---
 
