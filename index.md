@@ -1,6 +1,7 @@
 ---
 title: My Markdown Document
 author: John Doe
+layout: demo_template
 ---
 
 ## This page is written by {{page.author}}
