@@ -17,8 +17,10 @@ The resulting Markdown you write is then fed in to a converter that replaces the
 
     ![poster](https://upload.wikimedia.org/wikipedia/en/5/52/Sholay-poster.jpg)
   
- ##Some Codes example 
+ ## Some Codes example 
+ 
  XML documents must contain one root element that is the parent of all other elements:
+ 
  ```
  <root>
   <child>
