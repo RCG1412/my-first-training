@@ -3,7 +3,7 @@ title: My Markdown Document
 author: ABCD
 ---
 
-## This page is written by _{{page.author}}_
+## This page is written by {{page.author}}
 
 # My general practice for Markdown writing
 ## What is Markdown
