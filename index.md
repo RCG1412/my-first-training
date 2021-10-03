@@ -1,7 +1,6 @@
 ---
 title: My Markdown Document
-author: _ABCD_
----
+author: ABCD
 
 ## This page is written by {{page.author}}
 
