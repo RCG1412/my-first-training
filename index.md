@@ -4,7 +4,7 @@ author: John Doe
 layout: demo_template
 ---
 
-## This page is written by {{page.author}}
+## written by {{page.author}}
 
 # My general practice for Markdown writing
 ## What is Markdown
