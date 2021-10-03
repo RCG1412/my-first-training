@@ -1,5 +1,5 @@
 ---
-page author: ABCD
+author: ABCD
 ---
 
 # My general practice for Markdown writing
