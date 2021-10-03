@@ -4,11 +4,19 @@ Markdown is a very lightweight markup language that lets you create rich text (m
 
 The resulting Markdown you write is then fed in to a converter that replaces the Markdown syntax with HTML, which can then be displayed on a web page. In addition to the Markdown syntax, you can also write plain HTML as well, so if you have some more complicated structure you want to add in-line with your text, you'll still have the ability to do so.
 
-## Markdown Syntax Examples
+## Markdown Syntax (table format)
 
 | Element | Syntax | Example
 | ----| ---- | ---- |
 | Heading | `#` | # Olympcis |
 | Links | `[link text](url)` | Sholay |
 
+## Markdown Syntax (list format)
+- For first heading use **Heading 1** element and the syntax will be `#`.
+- For images use **images** elemnt and syntax will be `![image alt text] (path to image file)`. 
 
+    ![poster](https://upload.wikimedia.org/wikipedia/en/5/52/Sholay-poster.jpg)
+  
+## Question
+_Did you like Markdown_
+[] Yes  [] No
