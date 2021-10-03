@@ -17,7 +17,7 @@ The resulting Markdown you write is then fed in to a converter that replaces the
 
     ![poster](https://upload.wikimedia.org/wikipedia/en/5/52/Sholay-poster.jpg)
   
- ## Best Social Networking Websites
+ ## List of Social Networking Websites
  
  1.  Facebook
  
