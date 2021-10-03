@@ -12,22 +12,20 @@ The resulting Markdown you write is then fed in to a converter that replaces the
 | Links | `[link text](url)` | Sholay |
 
 ## Markdown Syntax (unordered list format)
+
 - For first heading use **Heading 1** element and the syntax will be `#`.
 - For images use **images** elemnt and syntax will be `![image alt text] (path to image file)`. 
 
     ![poster](https://upload.wikimedia.org/wikipedia/en/5/52/Sholay-poster.jpg)
   
- ## List of Social Networking Websites
+## List of Social Networking Websites
  
  1.  Facebook
+ 1.  Twitter
+ 1.  Instagram
+ 1.  Snapchat
  
- 2.  Twitter
- 
- 3.  Instagram
- 
- 4.  Snapchat
- 
- ## Some Codes example 
+## Some Codes example 
  
  XML documents must contain one root element that is the parent of all other elements:
  
