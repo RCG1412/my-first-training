@@ -3,12 +3,12 @@ title: My Markdown Document
 author: ABCD
 ---
 
+## This page is written by _{{page.author}}_
+
 # My general practice for Markdown writing
 ## What is Markdown
 
 Markdown is a very lightweight markup language that lets you create rich text (meaning text that has emphasis, headers, etc) in any plain text editor. Markdown, like HTML, allows you to specify text formatting, but it is far less expressive than HTML, which is perfectly fine since it is only meant to format text and not create full web pages.
-
-## This page is written by {{page.author}}
 
 ## Markdown Syntax (table format)
 
