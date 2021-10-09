@@ -50,8 +50,8 @@ _Did you like Markdown_
 
 {% include sample_for_includes.md %}
 
-{% for anything in site.data  %}
+{% for anything in site.data %}
 
 - {{fruit} : {color}}
 
-{% endfor}
+{% endfor %}
