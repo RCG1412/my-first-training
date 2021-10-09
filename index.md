@@ -4,7 +4,7 @@ author: John Doe
 layout: demo_template
 ---
 
-{% include sample for includes.txt %}
+{% include sample_for_includes.txt %}
 
 ## written by {{page.author}}
 
