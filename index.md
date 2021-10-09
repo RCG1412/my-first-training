@@ -55,3 +55,11 @@ _Did you like Markdown_
 {% for data in site.data.datasample %}
 - {{data.Fruit}}:{{data.Color}}
 {% endfor %}
+
+## Fruits
+
+| Fruits | Color |
+| ----| ---- |
+{% for data in site.data.datasample %}
+| {{data.Fruit}} | |{{data.Color}} |
+{% endfor %}
