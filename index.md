@@ -51,5 +51,5 @@ _Did you like Markdown_
 {% include sample_for_includes.md %}
 
 {% for item in site.data.datasample %}
-- {{item.fruit} : {item.color}}
+- {{item.fruit}} : {{item.color}}
 {% endfor %}
