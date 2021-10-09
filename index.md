@@ -3,7 +3,7 @@ title: My Markdown Document
 author: John Doe
 layout: demo_template
 ---
-{%includes sample for includes.txt%}
+{% includes sample for includes.txt %}
 ## written by {{page.author}}
 
 # My general practice for Markdown writing
