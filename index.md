@@ -4,8 +4,6 @@ author: John Doe
 layout: demo_template
 ---
 
-{% include sample_for_includes.md %}
-
 ## written by {{page.author}}
 
 # My general practice for Markdown writing
@@ -50,3 +48,4 @@ Markdown is a very lightweight markup language that lets you create rich text (m
 _Did you like Markdown_
 [] Yes  [] No
 
+{% include sample_for_includes.md %}
