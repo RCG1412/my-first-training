@@ -14,7 +14,7 @@ Markdown is a very lightweight markup language that lets you create rich text (m
 
 ## Markdown Syntax (table format)
 
-| Element | Syntax | Example
+| Element | Syntax | Example |
 | ----| ---- | ---- |
 | Heading | `#` | # Summer Olympcis |
 | Links | `[link text](url)` | Sholay |
@@ -58,7 +58,7 @@ _Did you like Markdown_
 
 ## Fruits
 
-| Fruits | Color |
+| Fruit | Color |
 | ----| ---- |
 {% for data in site.data.datasample %}
 | {{data.Fruit}} | |{{data.Color}} |
