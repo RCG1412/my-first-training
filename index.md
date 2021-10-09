@@ -53,5 +53,5 @@ _Did you like Markdown_
 ## Fruits and Color
 
 {% for data in site.data.datasample %}
-- {{data.fruit}}:{{data.color}}
+- {{data.Fruit}}:{{data.Color}}
 {% endfor %}
