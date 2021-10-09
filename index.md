@@ -50,6 +50,8 @@ _Did you like Markdown_
 
 {% include sample_for_includes.md %}
 
+## Fruits and Color
+
 {% for data in site.data.datasample %}
 - {{data.fruit}}:{{data.color}}
 {% endfor %}
