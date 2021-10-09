@@ -58,11 +58,10 @@ _Did you like Markdown_
 
 ## Fruits
 
-| Fruit | Color |
-
-| ----| ---- |
+| Fruit | Color
+| ---- | ---- |
 
 {% for data in site.data.datasample %}
-| {{data.Fruit}} | |{{data.Color}} |
+| {{data.Fruit}} | |{{data.Color}} 
 | ---- | ---- |
 {% endfor %}
